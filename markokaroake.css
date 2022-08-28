@@ -49,14 +49,14 @@
   #description {
     top: 50vh;
     left: 25%;
-    width: 50vh;
+    width: 80vh;
     height: 7vh;
     color: rgb(24, 21, 21);
     display: flex;
     justify-content: center;
     margin: auto;
     margin-top:5vh;
-    font-size: 14px;
+    font-size: 1.2vh;
     box-sizing: border-box;
     text-align: center;
     align-items: flex-start;
